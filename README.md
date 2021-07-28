@@ -1,2 +1,7 @@
 # Diabetes-Prediction
-Diabetes mellitus, commonly known as diabetes is a metabolic disease that causes high blood sugar. The hormone insulin moves sugar from the blood into your cells to be stored or used for energy. With diabetes, your body either doesn’t make enough insulin or can’t effectively use its insulin.
+
+I've used various machine learning algorithms to create more informative projects about diabetes.These are Logistics regression, Decision tree, Random forest, XGB Classifier, GBM Classifier, and the EXT Classifier. These give us great accuracy from 90% to 93%.
+
+XG Boost performed the best with accuracy of 93%
+
+**Google Colab: https://colab.research.google.com/drive/1YSQgVXrRh-x7xVBk66LQWxhmdY1PgJat?authuser=1**
